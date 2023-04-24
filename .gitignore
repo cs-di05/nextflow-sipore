@@ -1,0 +1,6 @@
+.nextflow*
+work
+demultiplexed_reads
+inspiration.nf
+maarten_based_sipore.nf
+test_script.nf
